@@ -37,7 +37,7 @@ class GPT():
     pip install openai
     '''
     def __init__(self) -> None:
-        API_KEY = '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'
+        API_KEY = 
         self.client = OpenAI(
         api_key=API_KEY, 
         )
