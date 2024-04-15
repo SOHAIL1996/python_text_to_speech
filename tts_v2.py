@@ -34,7 +34,7 @@
 # of Salman Omar Sohail.
 
 '''
-A Class for quick text to speech.
+A Class for quick text to speech (tts).
 '''
 
 import inflect 
