@@ -10,7 +10,7 @@
 
 Feel free to donate a coffee if this has helped you!
 
-![Paypal QR Code](https://github.com/SOHAIL1996/python_text_to_speech/media/qrcode.png)
+![Paypal QR Code](https://github.com/SOHAIL1996/python_text_to_speech/blob/main/media/qrcode.png)
 
 <!-- > [!NOTE]
 > This is a note.
